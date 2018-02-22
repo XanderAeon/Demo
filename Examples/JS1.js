@@ -1,4 +1,4 @@
-//hospital-style exercise
+//hospital-style exercise 
 
 class HospitalEmployee {
   constructor(name) {
