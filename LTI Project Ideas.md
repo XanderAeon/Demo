@@ -2,9 +2,9 @@
 
 Project ideas:
 
-Make a site that tracks a user's progress on something toward a goal.
+Make a site that tracks a user's progress on something toward a goal. An example of that would be recording a karate student's belt rank and skills learned.
 
-Make a site that updates over time, perhaps in relation to something else. Unlike the previous one, it would be less interactive and more informative.
+Make a site that updates over time, perhaps in relation to something else. Unlike the previous one, it would be less interactive and more informative. An example of that might be a counter that tracks something's number, or some kind of image rehosting.
 
 Work with Luke in a collaboration project.
 Pros: We can learn from each other and work on different things. Symbiotic properties. I've already learned that he is competent in group projects.
