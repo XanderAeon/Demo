@@ -1,0 +1,15 @@
+body {
+  background: linear-gradient(-60deg, #666066, #9933ff);
+}
+
+h1 {
+  font-family: "Ludica Console";
+  padding-left: 100px;
+  padding-top: 50px;
+  font-size: 30px;
+  background: linear-gradient(-60deg, #80b3ff, #e6f0ff);
+}
+
+div {
+  background-color: white;
+}
