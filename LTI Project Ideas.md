@@ -12,4 +12,6 @@ Make a site that updates over time, perhaps in relation to something else. Unlik
 Student project documentation:
 Document the recent process of the collaboration of some students to create an app, the result of which benefitted all sides participating. The documentation may also have a checklist for students to mark what they have and haven't done.
 
+Student project documentation confirmed as project.
+
 Project ideas with Luke have been omitted due to the current impossibility of his participation.
