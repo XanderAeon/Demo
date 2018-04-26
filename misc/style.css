@@ -1,0 +1,21 @@
+body {
+  background: linear-gradient(-60deg, #666066, #9933ff);
+}
+
+h1 {
+  font-family: "Lucida Console";
+  padding-left: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 30px;
+  background: linear-gradient(-60deg, #80b3ff, #e6f0ff);
+  /*border: 4px dotted red;*/
+  border: 12px blue;
+  border-style: outset;
+}
+
+div {
+  background-color: white;
+  border: 5px #666699;
+  border-style: outset;
+}
