@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,900,700,600,500,300,200,100,800);
+
+/*section{
+    background:#fbfbfb;
+    padding:60px 0px;
+
+}
+uncommenting causes blue bar at top of page*/
+
+h2 {
+    color: #4C4C4C;
+    word-spacing: 5px;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom:30px;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+#testimonial .img-circle{
+	  display: block;
+      margin: 0 auto;
+	  margin-top:10px;
+	  margin-bottom:10px;
+}
+
+.testimonial-part{
+	margin:50px 0px;
+}
+
+.blockquote-footer{
+	color: #5db4c0;
+}
+
+.comment-box , .comment-box2{
+   color: #FFFFFF;
+   background: #5db4c0;
+   position: relative;
+   max-width: 700px;
+   min-height: 160px;
+   text-align: center;
+   border-radius: 10px;
+   margin:0 auto;
+}
+
+.comment-box:after {
+   content: '';
+   position: absolute;
+   border-style: solid;
+   border-width: 15px 0 15px 15px;
+   border-color: transparent #5db4c0;
+   right: -15px;
+   top: 45px;
+}
+
+.comment-box2:after {
+   content: '';
+   position: absolute;
+   border-style: solid;
+   border-width: 15px 0 15px 15px;
+   border-color: transparent #5db4c0;
+   left: -14px;
+   top: 45px;
+   transform: rotate(180deg);
+}
+
+.comment-box p , .comment-box2 p{
+	padding:10px 10px;
+	font-family: 'Raleway', sans-serif;
+}
+
+.ion-minus{
+    padding:0px 10px;
+}
